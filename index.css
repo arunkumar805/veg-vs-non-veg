@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+    size: initial;
+    background-size: cover;
+    background-image: url(download\ \(10\).jpg);
+
+}
+img{
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    padding-top: 30px;
+    padding-left: 30px;
+    height: 150px;
+    width: 100px;
+}
+
+th{
+    padding-left: 50%;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 400;
+    color: aquamarine;
+}
+
+td{
+    height: 7px;
+    width: 7px;
+    border-radius: 20%;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    margin: auto;
+    margin-top: 7%;
+    justify-content: space-evenly;
+    background: rgba(0,0,0,0.5);
+
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 400;
+    background: linear-gradient(90deg,black,red,black);
+}
